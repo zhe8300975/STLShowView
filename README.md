@@ -55,3 +55,7 @@ UINT16//Attributebytecountend//文件属性统计
 ```
 ####参考
 http://baike.baidu.com/link?url=iTKpXemNdbVroqAXefRWpGQKkMXWAfgkNtIb2SBF80UiaweHOgBNDhCJ8sT4Sf1G_3Xj39ay_xt13Cf7PdBpxK
+
+###效果图
+ ![image](https://github.com/zhe8300975/STLShowView/blob/master/showImage/QQ20150729-2%402x.png)
+ ![image](https://github.com/zhe8300975/STLShowView/blob/master/showImage/QQ20150729-4%402x.png)
